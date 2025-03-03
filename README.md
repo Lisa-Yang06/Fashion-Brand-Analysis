@@ -1,11 +1,6 @@
 # Fashion-Brand-Analysis
 Analyzing fashion brands using R
----
-title: "Exploring and Analyzing `fashion_brand` Data"
-author: "Lisa Yang, Emily Zhan, Todd Hanson, Aixmar Parra"
-date: "December 13, 2024"
-format: pdf
----
+
 
 # Loading Packages and Data
 
